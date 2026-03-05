@@ -60,6 +60,9 @@ Transformação de 11 planilhas confusas em um *Data Lake* unificado.
     *   Mapeamento exato de *Market Share* de laboratório (Samsung dominando o volume de OS, e Apple garantindo o maior Ticket Médio isolado de lucratividade).
 
 <img width="1269" height="399" alt="image" src="https://github.com/user-attachments/assets/9f715248-4609-479a-8c84-4301050d552b" />
+<img width="632" height="474" alt="image" src="https://github.com/user-attachments/assets/47e1fa59-79c4-41e0-9429-7f2d2e65c135" />
+<img width="640" height="481" alt="image" src="https://github.com/user-attachments/assets/a2e2d288-426c-4b9b-9a5e-9c3118bf23df" />
+<img width="1248" height="495" alt="image" src="https://github.com/user-attachments/assets/b33f9848-432f-4455-9811-bb99ca680237" />
 
 
 ### 2️⃣ Projeto 2: Previsão de Faturamento Diário (Machine Learning)
@@ -104,4 +107,5 @@ python analise_vip.py
 
 ---
 *Este é um projeto construído e orquestrado para solucionar gargalos de inteligência no universo de Microempreendedores (Small Business) através da Engenharia de Dados Orientada ao Negócio.*
+
 
