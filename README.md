@@ -16,13 +16,13 @@
 ---
 
 ## 📌 O Problema de Negócio
-A Mix Cell é uma assistência técnica de aparelhos celulares com mais de 3 anos de mercado. Diariamente, a loja gera dezenas de Ordens de Serviço (OS), porém todos os dados ficavam "presos" no sistema de ERP como informações mortas.
+A Mix Cell é uma assistência técnica de celulares com mais de 10 anos de operação e 3 anos de histórico estruturado de dados. Diariamente, a loja gera dezenas de Ordens de Serviço (OS), porém todos os dados estavam armazenados no ERP sem qualquer exploração analítica ou geração de inteligência de negócio.
 
 O objetivo deste projeto foi **extrair inteligência competitiva** desses 3 anos de dados brutos, respondendo perguntas estratégicas sobre o faturamento, prevendo o caixa futuro com IA e treinando um modelo de Linguagem Natural para automação de triagem.
 
 ---
 
-## 🏗️ Arquitetura do Pipeline
+## 🏗️ Data & AI Pipeline Architecture
 
 ```mermaid
 graph TD
@@ -68,7 +68,7 @@ Transformação de 11 planilhas confusas em um *Data Lake* unificado.
 ### 2️⃣ Projeto 2: Previsão de Faturamento Diário (Machine Learning)
 Aplicações de algoritmos preditivos de série temporal para projetar os ganhos diários dos próximos 90 dias estipulando sazonalidade.
 *   **Ação:** *Feature Engineering* intensivo, isolando e fragmentando a cronologia em colunas numéricas (Dia da Semana, Dia do Mês, Trimestre).
-*   **O Modelo:** Treinamento robusto de uma Floresta Aleatória de Decisões (**Random Forest Regressor** via `scikit-learn`) provendo aprendizado sob sazonalidade histórica comercial sem sobreajuste.
+*   **O Modelo:** Treinamento de um modelo Random Forest Regressor para capturar padrões sazonais do histórico financeiro e projetar receitas futuras.
 *   **A Entrega:** A IA elaborou com precisão matemática uma projeção automática de **R$ 67.892,00** para os próximos 3 meses de operação de loja física.
 
 <img width="1265" height="548" alt="image" src="https://github.com/user-attachments/assets/d2ea8c48-a5e1-46eb-9d8a-d98ff40c2519" />
@@ -106,6 +106,7 @@ python analise_vip.py
 ```
 
 ---
-*Este é um projeto construído e orquestrado para solucionar gargalos de inteligência no universo de Microempreendedores (Small Business) através da Engenharia de Dados Orientada ao Negócio.*
+*Este projeto demonstra como pequenos negócios podem transformar dados operacionais brutos em inteligência estratégica utilizando Data Analytics, Machine Learning e NLP..*
+
 
 
