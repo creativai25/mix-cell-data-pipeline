@@ -59,7 +59,8 @@ Transformação de 11 planilhas confusas em um *Data Lake* unificado.
     *   Ticket Médio Geral identificado: **R$ 236,00**
     *   Mapeamento exato de *Market Share* de laboratório (Samsung dominando o volume de OS, e Apple garantindo o maior Ticket Médio isolado de lucratividade).
 
-> 📸 [REMOVA AQUI E COLOQUE A FOTO DO DASHBOARD HTML QUE GERAMOS HOJE (Dashboard_MixCell_Projeto1.html)]
+<img width="1269" height="399" alt="image" src="https://github.com/user-attachments/assets/9f715248-4609-479a-8c84-4301050d552b" />
+
 
 ### 2️⃣ Projeto 2: Previsão de Faturamento Diário (Machine Learning)
 Aplicações de algoritmos preditivos de série temporal para projetar os ganhos diários dos próximos 90 dias estipulando sazonalidade.
@@ -67,7 +68,8 @@ Aplicações de algoritmos preditivos de série temporal para projetar os ganhos
 *   **O Modelo:** Treinamento robusto de uma Floresta Aleatória de Decisões (**Random Forest Regressor** via `scikit-learn`) provendo aprendizado sob sazonalidade histórica comercial sem sobreajuste.
 *   **A Entrega:** A IA elaborou com precisão matemática uma projeção automática de **R$ 67.892,00** para os próximos 3 meses de operação de loja física.
 
-> 📸 [REMOVA AQUI E COLOQUE O PRINT DO GÁFICO MÁGICO DE LONGA DURAÇÃO (Grafico_MachineLearning_Projeto2.html)]
+<img width="1265" height="548" alt="image" src="https://github.com/user-attachments/assets/d2ea8c48-a5e1-46eb-9d8a-d98ff40c2519" />
+
 
 ### 3️⃣ Projeto 3: Motor de NLP para Triagem de Defeitos
 Cérebro do assistente de Inteligência Artificial focado em compreender e rotular a linguagem coloquial do cliente B2C.
@@ -75,7 +77,8 @@ Cérebro do assistente de Inteligência Artificial focado em compreender e rotul
 *   **Vetorização Matemática:** Pipeline criado usando **TF-IDF Vectorizer** (Term Frequency-Inverse Document Frequency) a fim de calcular o peso idiomático em português.
 *   **O Classificador:** Diagnóstico provido pautado em Teoremas de Bayes (**Naive Bayes** multinominal) instanciado em `.pkl` local de pronto-consumo.
 
-> 📸 [REMOVA E COLOQUE UMA FOTO ATRAENTE SUA BRINCANDO COM O TEXTO E O BOT RESPONDENDO LÁ NO TERMINAL VSCODE!]
+<img width="950" height="310" alt="image" src="https://github.com/user-attachments/assets/28288d2f-85f3-46c4-a63b-e0cecb649f17" />
+
 
 ---
 
@@ -101,3 +104,4 @@ python analise_vip.py
 
 ---
 *Este é um projeto construído e orquestrado para solucionar gargalos de inteligência no universo de Microempreendedores (Small Business) através da Engenharia de Dados Orientada ao Negócio.*
+
